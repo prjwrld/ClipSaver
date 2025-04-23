@@ -34,9 +34,8 @@ Here’s how ClipSaver looks in action:
 
 ## ⚙️ Installation
 
-### 🔽 DMG Build
-
-> [Download the latest ClipSaver.dmg](https://github.com/prjwrld/ClipSaver/releases)
+**DMG Build:**
+> [📦 Download ClipSaver v1.0.0 (.dmg)](https://github.com/prjwrld/ClipSaver/releases/download/v1.0.0/ClipSaver.dmg)
 
 ### 🛠️ Build from Source (Xcode)
 
