@@ -19,7 +19,16 @@ Designed with a **clean, glass-style UI**, it runs in the **menu bar** and also 
 
 ## 🖼️ Screenshot
 
-> *(Add a screenshot here of the app running — especially the menu bar popover!)*
+Here’s how ClipSaver looks in action:
+
+### 📋 Menu Bar Popover
+![Menu Bar Popover](https://github.com/prjwrld/ClipSaver/blob/main/Photos/clipSaver-menu-bar.png?raw=true)
+
+### 🪟 App Window View
+![Application Window](https://github.com/prjwrld/ClipSaver/blob/main/Photos/clipSaver-application-window.png?raw=true)
+
+### 🔁 Alternate Menu View
+![Alternate Menu Bar](https://github.com/prjwrld/ClipSaver/blob/main/Photos/clipSaver-menu-bar1.png?raw=true)
 
 ---
 
